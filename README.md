@@ -1,9 +1,9 @@
 ## Eaee!! eu sou o Victor Mariz, programador e desenvolvedor de software 
 
-- Html e Css
-- Javascript
-- Bootstrap 
-- My Sql
+- &#9989; Html e Css
+- &#9989; Javascript
+- &#9989; Bootstrap 
+- &#9989; My Sql
 
 - 💎 Estou procurando trabalhar com programação
 - 😄 Pronomes: ele/dele
