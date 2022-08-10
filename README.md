@@ -1,6 +1,10 @@
 ## Eaee!! eu sou o Victor Mariz, programador e desenvolvedor de software 
 
-- 🌱 Eu estou aprendendo Javascript
+- Html e Css
+- Javascript
+- Bootstrap 
+- My Sql
+
 - 💎 Estou procurando trabalhar com programação
 - 😄 Pronomes: ele/dele
 
