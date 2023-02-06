@@ -4,9 +4,9 @@
 - &#9989; Javascript
 - &#9989; Bootstrap 
 - &#9989; My Sql
+- &#9989; Flutter
 
 - 💎 Estou procurando trabalhar com programação
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/VictorMariz">
